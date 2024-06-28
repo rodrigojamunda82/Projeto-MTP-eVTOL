@@ -40,6 +40,8 @@ Dash is running on http://127.0.0.1:8050/
 ```
 Nesse endereço, é possível encontrar gráficos de performance, bem como caixas para alterar os valores da aeronave:
 
+![alt text](https://github.com/rodrigojamunda82/Projeto-MTP-eVTOL/blob/main/Assets/local-host.png?raw=true)
+
 Os parâmetros são dinâmicos, então não é necessário reiniciar o programa após alterá-los.
 
 # Autores
